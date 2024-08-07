@@ -1,7 +1,10 @@
+import Menu from "../components/Menu";
+
 const ContactPage = () => {
   return (
     <div>
-      <h1>This is Contact page</h1>
+      <Menu />
+      <h1>This is Contact Page</h1>
     </div>
   );
 };
